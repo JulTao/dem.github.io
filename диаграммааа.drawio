@@ -1,0 +1,345 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4" pages="2">
+  <diagram name="Страница — 1" id="Kf1gbpvMtJADo3_MN16N">
+    <mxGraphModel dx="1434" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-1" value="Стоматологическое отделение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-2" value="Врач" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-4" value="Щуков Демьян Валерьевич" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-5" value="1597536482" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-6" value="4550" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-7" value="М" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-8" value="05.03.1976" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-9" value="Медсестра" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="263.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-10" value="Чумак Светлана Степановна" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="283.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-11" value="3579512864" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="283.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-12" value="1294" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="283.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-13" value="Ж" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="283.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-14" value="28.01.1989" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="283.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-16" value="Операция" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-17" value="Установка брекет-системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-18" value="15.02.2026" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-19" value="2 часа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="410" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-20" value="Брекеты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="410" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-21" value="Германия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="410" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-24" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="350" y="70" as="sourcePoint" />
+            <mxPoint x="240" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="70" />
+              <mxPoint x="40" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="190" as="sourcePoint" />
+            <mxPoint x="250" y="190" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="300" as="sourcePoint" />
+            <mxPoint x="250" y="300" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-30" value="Щуков" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-31" value="М" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-32" value="05.03.1376" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-33" value="Новыеданные пользователь вводит в программу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-34" value="ключевое поле &quot;Номер&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="670" as="sourcePoint" />
+            <mxPoint x="200" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="660" as="sourcePoint" />
+            <mxPoint x="220" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-37" value="Щуков" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-38" value="М" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-39" value="05.03.1976" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-40" value="Память" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="700" as="sourcePoint" />
+            <mxPoint x="430" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="549" as="sourcePoint" />
+            <mxPoint x="500" y="549" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="700" as="sourcePoint" />
+            <mxPoint x="500" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-45" value="Индекс" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-46" value="700" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-47" value="34" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-49" value="номер &quot;Ключ&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="570" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-50" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="650" as="sourcePoint" />
+            <mxPoint x="390" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-52" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="570" as="sourcePoint" />
+            <mxPoint x="430" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="650" as="sourcePoint" />
+            <mxPoint x="430" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-54" value="номер&lt;div&gt;ячейки-&lt;/div&gt;&lt;div&gt;700&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="565" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="530" as="sourcePoint" />
+            <mxPoint x="500" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-XsjgYrYTkcPPkQxIn5-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="524.5" as="sourcePoint" />
+            <mxPoint x="870" y="524.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="I8UNv1OFeqKdB4uSM856" name="Страница — 2">
+    <mxGraphModel dx="1434" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W2WYqJK3Oul_rz1k8qDz-1" value="Врач" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W2WYqJK3Oul_rz1k8qDz-2" value="Щуков Демьян Валерьевич" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W2WYqJK3Oul_rz1k8qDz-3" value="1597536482" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W2WYqJK3Oul_rz1k8qDz-4" value="4550" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W2WYqJK3Oul_rz1k8qDz-5" value="М" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W2WYqJK3Oul_rz1k8qDz-6" value="05.03.1976" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W2WYqJK3Oul_rz1k8qDz-7" value="Щуков Демьян Валерьевич" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W2WYqJK3Oul_rz1k8qDz-8" value="М" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W2WYqJK3Oul_rz1k8qDz-9" value="05.03.1976" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W2WYqJK3Oul_rz1k8qDz-10" value="4550" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W2WYqJK3Oul_rz1k8qDz-11" value="1597536482" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YUf4-o5Tf5lhbWeahCWC-1" value="ключ &quot;Имя&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YUf4-o5Tf5lhbWeahCWC-2" value="ключ &quot;Пол&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YUf4-o5Tf5lhbWeahCWC-3" value="ключ &quot;Дата рождения&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YUf4-o5Tf5lhbWeahCWC-4" value="ключ &quot;Полис&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YUf4-o5Tf5lhbWeahCWC-5" value="ключ &quot;Телефон&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="180" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-1" value="Медсестра" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-2" value="Чумак Светлана Степановна" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-3" value="3579512864" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-4" value="1294" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-5" value="Ж" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-6" value="28.01.1989" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-7" value="Чумак Светлана Степановна" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="434" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-8" value="Ж" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="434" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-9" value="28.01.1989" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="434" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-10" value="1294" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="434" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-11" value="3579512864" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="434" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-12" value="ключ &quot;Имя&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="414" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-13" value="ключ &quot;Пол&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="414" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-14" value="ключ &quot;Дата рождения&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="414" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-15" value="ключ &quot;Полис&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="414" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qzBDBbYLoiSuWbjjsfhY-16" value="ключ &quot;Телефон&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="414" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-1" value="Операция" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="550" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-2" value="Установка брекет-системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="570" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-3" value="15.02.2026" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="570" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-4" value="2 часа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="570" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-5" value="Брекеты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-6" value="Германия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="570" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-8" value="Установка брекет-системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-9" value="15.02.2026" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-10" value="2 часа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-11" value="Брекеты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-12" value="Германия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-13" value="ключ &quot;Название операции&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="660" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-14" value="ключ &quot;Дата&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="660" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-15" value="ключ &quot;Длительность&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="660" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-16" value="ключ &quot;Материалы&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="660" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IUbts41fUyKi9xOGPE68-17" value="ключ &quot;Страна производства&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="660" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
